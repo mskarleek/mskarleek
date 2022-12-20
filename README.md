@@ -3,7 +3,7 @@
 <h3>👩‍💻 About Me </h3>
 
 🎓 2022 college grad with an A.S. in Web Development<br />
-💼 Seeking an entry level opportunity to begin my career as a Web Developer<br />
+💼 Seeking entry level opportunity to begin my career as a Web Developer<br />
 🌱 Fostering continuous growth of my skills through independent self-study and practice<br />
 
 <h3>🛠 Tech Stack</h3>
